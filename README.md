@@ -9,8 +9,7 @@ Si quieres ver paso a paso cómo se hizo este proyecto y aprender más sobre Gra
 - Docker-compose
 - GraphQL
 - GraphQL Server (Apollo)
-- Node 7.5
-- Yarn
+- Node lts
 - Objection como ORM
 - Knex para migraciones de DB
 - SQLite como motor de base de datos
